@@ -36,7 +36,7 @@ body {
     height: 200px;
   }
   section {
-    background: rgb(184, 156, 213);
+    background: rgb(58, 21, 99);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -50,7 +50,7 @@ body {
   }
 
   .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(51, 0, 170);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
